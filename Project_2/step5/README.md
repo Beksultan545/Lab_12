@@ -3,6 +3,7 @@
 **Student Name:** Kopzhasar Beksultan
 **Date:** 03.04.2026  
 
+
 ## Жоба туралы
 
 Бұл қадамда React Native Flexbox арқылы responsive layout жасалды.
