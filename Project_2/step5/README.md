@@ -6,6 +6,7 @@
 
 ## Жоба туралы
 
+
 Бұл қадамда React Native Flexbox арқылы responsive layout жасалды.
 
 ## Компоненттер
